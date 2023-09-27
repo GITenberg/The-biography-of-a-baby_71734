@@ -1,0 +1,27 @@
+_repo: The-biography-of-a-baby_71734
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shinn, Milicent Washburn
+    gutenberg_agent_id: '56367'
+    url: http://www.gutenberg.org/2009/agents/56367
+description: ''
+gutenberg_issued: '2023-09-26'
+identifiers:
+  gutenberg: '71734'
+language: en
+pgterms:marc904: https://archive.org/details/biographyofbaby00shinuoft
+pgterms:marc905: 20201122165536shinn
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Tim Lindell, Turgut Dincer, David E. Brown, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aBoston :$bHoughton Mifflin Co., $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The biography of a baby
+url: http://www.gutenberg.org/ebooks/71734
