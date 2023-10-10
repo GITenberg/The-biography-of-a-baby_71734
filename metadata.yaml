@@ -1,11 +1,16 @@
 _repo: The-biography-of-a-baby_71734
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71734-h/images/cover.jpg
 creator:
   author:
     agent_name: Shinn, Milicent Washburn
     gutenberg_agent_id: '56367'
     url: http://www.gutenberg.org/2009/agents/56367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71734#The-biography-of-a-baby
 gutenberg_issued: '2023-09-26'
 identifiers:
   gutenberg: '71734'
